@@ -1,1 +1,0 @@
-alert("Jika sudah mantap bisa langsung order sesuai via yang disediakan :D")
